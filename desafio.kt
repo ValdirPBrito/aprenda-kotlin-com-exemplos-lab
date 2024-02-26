@@ -1,4 +1,4 @@
-import entities.Formacao
+import Formacao
 
 
     fun main(){
